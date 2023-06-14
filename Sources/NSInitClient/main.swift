@@ -10,7 +10,7 @@ import NSInit
 import CoreLocation
 
 @NSInit
-public class Car {
+class Car {
     var number: Int
     var name: String
     var model: String
